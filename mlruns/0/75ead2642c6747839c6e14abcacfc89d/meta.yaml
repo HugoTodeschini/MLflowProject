@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hugo/Documents/MLflowProject/mlruns/0/75ead2642c6747839c6e14abcacfc89d/artifacts
+end_time: 1574373565810
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 75ead2642c6747839c6e14abcacfc89d
+run_uuid: 75ead2642c6747839c6e14abcacfc89d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1574373563123
+status: 4
+tags: []
+user_id: Hugo
